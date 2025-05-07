@@ -1,0 +1,50 @@
+Features Implemented
+Full CRUD Operations:
+
+Create: Add new tasks with title, description, due date, and category
+
+Read: Display all tasks grouped by category
+
+Update: Edit any task field
+
+Delete: Remove tasks
+
+Task Attributes:
+
+Title (required)
+
+Description (optional)
+
+Due date (optional, with date picker)
+
+Category (default categories: Work, Personal, Study)
+
+Completion status (toggle checkbox)
+
+Category Management:
+
+Tasks are grouped by category
+
+Ability to add new categories
+
+Category selector when creating/editing tasks
+
+UI Features:
+
+Material-UI for modern, responsive design
+
+Date picker for due dates
+
+Completion status shown with strikethrough
+
+Confirmation dialogs for actions
+
+Additional Features:
+
+Task count per category
+
+Form validation
+
+Error handling
+
+Responsive layout
